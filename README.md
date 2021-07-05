@@ -1,4 +1,5 @@
 # XCTUTest-TAU (Test Automation University) Course 
+Bitrise Demo
 
 This repo contains the course material for the Test Automation University Course `Introduction to iOS Automation with XCUITest` 
 
