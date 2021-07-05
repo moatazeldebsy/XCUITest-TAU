@@ -19,7 +19,6 @@ class TAUTests: XCTestCase {
     }
 
     func testExample() {
-        expectation(description: "test")
        
     }
 
